@@ -13,6 +13,7 @@ public class Financiero {
    
     public static void main(String[] args) {
         System.out.println("practica 1");
+        System.out.println("Bienvenido a financiero");
     }
     
 }
